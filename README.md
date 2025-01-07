@@ -10,3 +10,7 @@ Once all assets were modeled and textured, we proceeded to render the room using
 
 ## Outcome:
 The project successfully demonstrates our team's ability to work together on a complex task, integrating multiple 3D modeling techniques to create a cohesive, realistic scene. The final render captures the depth, textures, and lighting effects, showcasing our technical skills and creativity in environment design. This project was an excellent exercise in 3D modeling, scene composition, and rendering.
+
+![IMG_29A5B844B82D-1](https://github.com/user-attachments/assets/dfda8160-2536-4840-ae6f-b8695684d57a)
+![IMG_29A5B844B82D-2](https://github.com/user-attachments/assets/0191ca19-3557-4801-ad44-5d71d4490de6)
+![IMG_29A5B844B82D-3](https://github.com/user-attachments/assets/2f7b5fbe-6772-4eae-b680-14810fa899e1)

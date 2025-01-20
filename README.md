@@ -1,4 +1,4 @@
-![RenderingScena3-min](https://github.com/user-attachments/assets/d21a3cfa-5472-486d-8ad2-5be56cad35aa)![RenderingScena2-min](https://github.com/user-attachments/assets/a8e8696b-2412-4f16-ae55-2d5c870125ac)# 2022-Computer Graphics Project course
+# Bachelor Pad
 
 ## Project Overview:
 In this project, our team collaborated to create a detailed 3D room using a variety of modeling techniques. The goal was to design a realistic and immersive environment, incorporating architectural elements, furniture, and environmental props. We utilized Blender for 3D modeling, applying techniques like procedural modeling, UV unwrapping and sculpting to achieve detailed and accurate results.
